@@ -7,4 +7,4 @@ Varying **presence and frequency penalties** also had notable effects. A **highe
 
 ## Outputs in Different settings
 
-  ![Tux, the Linux mascot](/interactive-prompt-playground/Ai_Results.png)
+  ![Tux, the Linux mascot](/Ai_Results.png)
